@@ -1,20 +1,19 @@
 <h1 align="center">Hi 👋, I'm Deepam Ameria</h1>
-<h3 align="center">Robotics Engineer | Learning-Based Control | Autonomous Systems</h3>
+<h3 align="center">Robotics Engineer | Robot Learning | Autonomous Systems</h3>
 
 <p align="center">
 🎓 MS in Robotic Systems Development @ Carnegie Mellon University  
 🤖 Building autonomous robots that perceive, plan, and act  
-🚀 Interested in Vision-Language-Action, Manipulation, and Field Robotics  
+🚀 Interested in Vision-Language-Action, Multimodal ML, Reinforcement Learning and Field Robotics  
 </p>
 
 ---
 
 ## 🚀 What I'm Building
 
-- 🌕 <a href="https://mrsdprojects.ri.cmu.edu/2025teami/" target="_blank"><b>Lunar ROADSTER</b></a> — Autonomous crater grading rover for lunar south pole infrastructure  
-- 🦾 Learning-based manipulation & motion tracking with Franka Panda  
-- 🕶️ VR-based teleoperation interfaces for scalable robot data collection  
-- 📊 High-quality robot action datasets for VLA fine-tuning and deployment  
+- <a href="https://mrsdprojects.ri.cmu.edu/2025teami/" target="_blank"><b>Lunar ROADSTER</b></a> — Autonomous crater grading rover for lunar south pole infrastructure    
+- VR-based teleoperation interfaces for scalable robot data collection, enabliong VLA fine-tuning and deployment  
+- Pedestrian Intent Detection using Transformer based model for Autonomous Driving
 
 ---
 
@@ -22,16 +21,6 @@
 
 - 🤖 <a href="https://cmubig.github.io/" target="_blank"><b>CMU Bot Intelligence Group (BIG Lab)</b></a>  
   Working on robot learning, teleoperation interfaces, and scalable data collection pipelines  
-
----
-
-## 🧠 Technical Focus
-
-- **Perception:** Visual odometry, segmentation, LiDAR processing  
-- **Controls:** Cascaded control, differential flatness, impedance control  
-- **Autonomy:** Cost maps, motion planning, adaptive control  
-- **Learning:** Multimodal models, Vision-Language-Action systems  
-- **Systems:** ROS/ROS2, Jetson deployment, hardware-software integration  
 
 ---
 
@@ -72,7 +61,6 @@ I build robots that:
 📧 dameria@andrew.cmu.edu  
 
 ---
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=deepam-ameria&show_icons=true&locale=en&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deepam-ameria&show_icons=true&theme=radical&cache_seconds=1800" />
 </p>

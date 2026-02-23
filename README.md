@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepam Ameria</h1>
 
-<h2 align="center">Exploring physical AI via Learnin-based controls, perception, and autonomy.</h2>
+<h2 align="center">Exploring physical AI via Learning-based controls, perception, and autonomy.</h2>
 
 <p align="center">
 Currently pursuing a Masters in Robotic Systems Development @ Carnegie Mellon University  <br>
